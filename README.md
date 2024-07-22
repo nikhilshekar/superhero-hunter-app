@@ -4,7 +4,7 @@ Fetch and display a list of SuperHeros (Characters) on the home page. Also creat
 
 ## Demo Link
 
-You can run: [https://superhero-hunter-app-4utg.onrender.com](https://superhero-hunter-app-4utg.onrender.com)
+You can run: [https://rococo-arithmetic-01221f.netlify.app](https://rococo-arithmetic-01221f.netlify.app)
 
 ## Setup
 
